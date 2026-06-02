@@ -1,9 +1,6 @@
-# my_frist_reP
+## What I Learned today
 
-# MY FRIST REPOSITORY
-A beginner github project
-created during the workshop.
+I am currently attending a GitHub workshop.
+Today I lerned about: - Version control - creating a repisitory - the edit-commit-push cycle
 
-## About Me
-My name is **hasitha**.
-I am lerning github
+my github profile:https://github.com/athulahasitha0-boop
